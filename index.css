@@ -1,0 +1,122 @@
+
+/* Estilo para o título principal */
+h1 {
+    font-size: 24px;
+    text-align: center;
+    color: #333;
+}
+
+/* Estilo para os títulos das seções */
+h2 {
+    font-size: 20px;
+    color: #333;
+}
+
+/* Estilo para o menu suspenso de seleção de animais */
+#animalSelect {
+    font-size: 16px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+/* Estilo para a lista de quantidade de animais por espécie */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+/* Estilo para os parágrafos de informações */
+p {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Estilo para as informações calculadas */
+span {
+    font-weight: bold;
+    color: #0070cc;
+}
+
+/* Estilo para o resultado do cálculo de gastos */
+#totalGastos {
+    color: #e53935; /* Vermelho */
+}
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8B4513; /* Marrom (cor de terra) */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+/* Estilo para o título principal */
+h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+/* Estilo para os títulos das seções */
+h2 {
+    font-size: 20px;
+    color: #0070cc;
+}
+
+/* Estilo para o menu suspenso de seleção de animais */
+#animalSelect {
+    font-size: 16px;
+    padding: 5px;
+    margin: 10px 0;
+    border: 1px solid #0070cc;
+    border-radius: 5px;
+}
+
+/* Estilo para a lista de quantidade de animais por espécie */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 16px;
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+/* Estilo para as informações calculadas */
+span {
+    font-weight: bold;
+    color: #0070cc;
+}
+
+/* Estilo para o resultado do cálculo de gastos */
+#totalGastos {
+    color: #e53935; /* Vermelho */
+}
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff00003f; /* Cinza Claro */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+/* Restante do CSS permanece inalterado */
